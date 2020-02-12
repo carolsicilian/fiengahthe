@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://axohquuuta.semverdoc.org/sitemap.xml
